@@ -98,7 +98,7 @@ Rechts wird die jeweilige Statement-Nummer angezeigt, bei der angehalten wurde
 ### Nützliche Infos
 
 - Wenn mehrere PHP-Versionen installiert sind, muss in jeder einzelnen Version die entsprechende Anpassung vorgenommen werden !
-- Das Script kann im lokalen LAN auch von anderen Devices zum Testen aufgerufen werden. Das Debugging läuft am immer am Entwicklungsrechner. Es kann daher mit verschiedenen Endgeräten getestet werden.
+- Das Script kann im lokalen LAN auch von anderen Devices zum Testen aufgerufen werden. Das Debugging läuft am Server am Entwicklungsrechner. Es kann daher mit verschiedenen Endgeräten getestet werden.
     
     
 letzte Änderung HR 2022-06-25 13:00 NK
