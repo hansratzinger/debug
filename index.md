@@ -81,7 +81,7 @@ Der aktuelle Inhalt der Variablen und Konstanten:
     
 #### Überwachen
 
-Variablen die im aktellen Debugging relevant sind, können hier mit + hinzugefügt werden. Bei vielen Variablen bietet das eine besere Übersichtlichkeit.
+Variablen die im aktellen Debugging relevant sind, können hier mit + hinzugefügt werden. Bei vielen Variablen bietet das eine besere Übersichtlichkeit. Kann auch während des Debuggings hinzugefügt werden!
     
 #### Aufrufliste
 
