@@ -8,6 +8,7 @@ Ich programmiere seit 7 Jahren in PHP als Autodidakt. Nach langem Suchen und vie
 - Laragon WAMP Server (Apache, PHPMySqlAdmin)
 - Visual Studio Code
 - XDebug
+- PHP 8.1.7 bzw. 7.4.30 (Hosting Provider)
 
 ### Setup
 
