@@ -93,7 +93,7 @@ Rechts wird die jeweilige Statement-Nummer angezeigt, bei der angehalten wurde
 #### Haltepunkte
 
 -   alle gesetzten Haltpunkte können durch anhaken aktiviert/deaktiviert werden
--   zusätzlich kann auch beim Auftreten von Notices, Warnings, Errors oder Execptions angehalten werden
+-   zusätzlich kann auch beim Auftreten von Notices, Warnings, Errors oder Exceptions angehalten werden
     
 ### Nützliche Infos
 
